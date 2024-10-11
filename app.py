@@ -1,8 +1,6 @@
 from flask import Flask, jsonify, request
 from models import Task, User
 
-# this file is being edited by Agyey
-
 # Initialize Flask app
 app = Flask(__name__)
 
